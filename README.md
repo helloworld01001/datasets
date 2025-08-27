@@ -19,11 +19,11 @@
  
 ## 目录
 
-- [计算机视觉](./computer-vision.md)
-- [自然语言处理](./natural-language-processing.md)
-- [语音与音频](./speech-and-audio.md)
-- [多模态](./multimodal.md)
-- [遥感与地理信息](./remote-sensing.md)
-- [医疗与生物信息](./biomedical.md)
-- [其他方向](./others.md)
+- [计算机视觉](./domains/computer-vision.md)
+- [自然语言处理](./domains/natural-language-processing.md)
+- [语音与音频](./domains/speech-and-audio.md)
+- [多模态](./domains/multimodal.md)
+- [遥感与地理信息](./domains/remote-sensing.md)
+- [医疗与生物信息](./domains/biomedical.md)
+- [其他方向](./domains/others.md)
 
