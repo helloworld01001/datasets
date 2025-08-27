@@ -1,6 +1,6 @@
 中文 | [English](https://github.com/helloworld01001/datasets/README_en.md)
 
-# 全领域开放数据集索引项目
+# 全领域开放数据集
 
 本项目的目标是建立一个**全领域开放数据集索引平台**，  
 旨在收集、整理和索引各领域的高质量数据集，  
